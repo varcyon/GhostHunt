@@ -1,40 +1,21 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{13D41504-4F14-2A4A-BA89-0087DD91B436}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "EOSVoiceChat",
+			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
-			"Name": "EOSShared",
+			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		},
 		{
 			"Name": "VoskPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d3c56f7d6af44915a9c818659b4a3d2e"
-		},
-		{
-			"Name": "SpeechRecognition",
-			"Enabled": false
-		},
-		{
-			"Name": "OnlineSubsystemGooglePlay",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Android"
-			]
-		},
-		{
-			"Name": "OnlineSubsystemIOS",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"TVOS"
-			]
 		}
 	]
 }
