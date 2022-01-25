@@ -14,6 +14,7 @@ ThirdPartyContent
 *.suo
 *.xcodeproj
 *.xcworkspace
+*_BuiltData.uasset
 Content/EF_TwinsRoom
 Content/EF_Sam
 Content/EF_MollyGreg
