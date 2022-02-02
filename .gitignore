@@ -16,6 +16,7 @@ ThirdPartyContent
 *.xcworkspace
 *_BuiltData.uasset
 *.rar
+*.zip
 Content/EF_TwinsRoom
 Content/EF_Sam
 Content/EF_MollyGreg
