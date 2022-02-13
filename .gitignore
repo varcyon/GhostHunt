@@ -38,3 +38,7 @@ Content/Maps/Maps/SubLevels/Houses_BuiltData.uasset
 Content/Maps/Maps/SubLevels/Houses_Outside_BuiltData.uasset
 *.zip
 Content/Sounds/InHouse_ambient_sfx.uasset
+Content/Sound/InHouse_ambient_sfx.uasset
+Content/Sound/InHouse_ambient_sfx.wav
+Content/Sound/Outside_ambient_Sfx.uasset
+Content/Sound/Outside_ambient_Sfx.wav
